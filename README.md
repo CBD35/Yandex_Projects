@@ -1,1 +1,1 @@
-# Yandex_Projects
+# yandex_projects
