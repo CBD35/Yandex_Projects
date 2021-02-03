@@ -1,4 +1,5 @@
 # yandex_projects
+
 #### The First project with Yandex Practicum was a preprocessing project focusing on banking for different age groups applying for loans.
 
 #### The Second project with Yandex Practicum was an EDA project focusing on apartment prices based on location, floor, and square meters.
