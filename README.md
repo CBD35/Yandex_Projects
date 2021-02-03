@@ -20,4 +20,4 @@
 
 10. The ABfinal project with Yandex Practicum was about testing an A/B test that was done by a former co-worker and checking for mistakes as well as event funnels.
 
-11. The Final project with Yandex Practicum was about Ecommerce where we needed to look at products from a company and determine sales, best customers, best seasons, and do A/B testing
+11. The Final project with Yandex Practicum was about Ecommerce where we needed to look at products from a company and determine sales, best customers, best seasons, and do A/B testing.
